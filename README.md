@@ -15,7 +15,6 @@
 * 猫影视TV｜APP
   + https://github.com/catvod/CatVodTVSpider
 * 猫影视TV｜接口相关
-  + https://github.com/Tangsan99999/Public/blob/main/readme.md
   + https://github.com/catvod/CatVodTVSpider/tree/master/jar
   + https://github.com/catvod/CatVodTVSpider/blob/master/XPath.md
   + https://catvod.github.io/CatVodTVJsonEditor/
