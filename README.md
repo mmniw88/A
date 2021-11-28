@@ -13,7 +13,6 @@
 
 ## 2. 猫影视TV
 * 猫影视TV｜APP
-  + https://github.com//Tangsan99999/Public
   + https://github.com/catvod/CatVodTVSpider
 * 猫影视TV｜接口相关
   + https://github.com/Tangsan99999/Public/blob/main/readme.md
