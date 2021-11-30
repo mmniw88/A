@@ -4,6 +4,7 @@
 * 海阔视界｜APP
   + https://www.lanzoux.com/u/GoldRiver 
   + https://www.lanzoui.com/u/GoldRiver
+* [海阔视界纯新人上手使用指南（保姆级）](https://www.bilibili.com/video/BV1YN411Q7Ho)
 * 海阔视界｜小程序：道长仓库Pro
 
       https://paste.yuchen.tech/10795
