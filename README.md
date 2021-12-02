@@ -164,13 +164,11 @@ ___
 * 异次元｜APP
   * https://yiciyuan.lanzoux.com/b00ej0kba
 * 异次元｜图源
+  * [2021.12.1 有图标大整合源更新](https://mp.weixin.qq.com/s/Kp_FEMCq9WyvukxyoQjsuQ)
+  * [2021.12.2 大整合源更新（无图标修复）](https://mp.weixin.qq.com/s/BcifLAS85mhdqtIpqyx_dw)
+  * https://github.com/wanglabk/hub/tree/c2099
+  * http://yck.mumuceo.com/yiciyuan/tuyuan/index.html
 
-  https://github.com/wanglabk/hub/tree/c2099
-
-  http://yck.mumuceo.com/yiciyuan/tuyuan/index.html
-  ```
-  https://cdn.jsdelivr.net/gh/YuanHsing/freed/漫画｜图源｜2021.12.01有图标大整合源更新.json
-  ```
 ___
 # [WebDav＆数据备份与同步]
 * 授权教程
