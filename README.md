@@ -161,7 +161,7 @@ ___
 
   http://yck.mumuceo.com/yiciyuan/tuyuan/index.html
   ```
-  https://cdn.jsdelivr.net/gh/YuanHsing/freed/漫画｜图源｜2021.10.24有图标大整合源更新.json
+  https://cdn.jsdelivr.net/gh/YuanHsing/freed/漫画｜图源｜2021.12.01有图标大整合源更新.json
   ```
 ___
 # [WebDav＆数据备份与同步]
