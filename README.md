@@ -5,12 +5,16 @@
   + https://www.lanzoux.com/u/GoldRiver 
   + https://www.lanzoui.com/u/GoldRiver
 * [海阔视界纯新人上手使用指南（保姆级）](https://www.bilibili.com/video/BV1YN411Q7Ho)
-* 海阔视界｜小程序：道长仓库Pro
+* 海阔视界｜小程序：
 
-      https://paste.yuchen.tech/10795
-* 海阔视界｜小程序：香情影视
+  设置 > 剪贴板口令导入 > 贴上 > ok
+  1. 道长仓库Pro
 
-      香情影视￥home_rule_url￥http://www.28url.cn/yx3aqu
+          https://cmd.im/i6uk
+
+  2. 香情影视
+  
+          https://cmd.im/6ddt
 
 ## 2. 猫影视TV
 * 猫影视TV｜APP
