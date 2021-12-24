@@ -164,7 +164,16 @@ ___
 
       https://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json
 
-## 3. 异次元
+## 3. cilidili (Cimoc IOS版本，已提交审核，还没上架)
+* cilidili｜介绍
+  * [Cimoc ios版本更新预告](https://mp.weixin.qq.com/s/ENnTYWKIV5mRiDzjF-8xUA)
+* cilidili｜ipa包 (自己签名后再安装)
+  * https://haleydu.lanzouq.com/iWMYPxph1zg
+  * [如何免费的自签IOS应用（IPA应用安装无需越狱）](https://www.bilibili.com/read/cv12665284)
+* 空图源 解决方法
+  * 设置 > 恢复默认设置
+
+## 4. 异次元
 * 异次元｜APP
   * https://yiciyuan.lanzoux.com/b00ej0kba
 * 异次元｜图源
