@@ -170,6 +170,9 @@ ___
 * cilidili｜ipa包 (自己签名后再安装)
   * https://haleydu.lanzouq.com/iWMYPxph1zg
   * [如何免费的自签IOS应用（IPA应用安装无需越狱）](https://www.bilibili.com/read/cv12665284)
+* 图源
+
+      https://gitee.com/Haleydu/cilidili-plus/raw/master/source/source.json
 * 空图源 解决方法
   * 设置 > 恢复默认设置
 
