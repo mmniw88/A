@@ -143,6 +143,7 @@ ___
 * ios13版~支持阅读3.0书源导入
 * 源阅读｜APP
   * https://github.com/kaich/Yuedu
+  * https://apps.apple.com/cn/app/源阅读/id1561787704
 
 ___
 # [漫画]
