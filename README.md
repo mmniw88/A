@@ -173,7 +173,7 @@ ___
   * [如何免费的自签IOS应用（IPA应用安装无需越狱）](https://www.bilibili.com/read/cv12665284)
 * 图源
 
-      https://gitee.com/Haleydu/cilidili-plus/raw/master/source/source.json
+      https://gitee.com/Haleydu/cilidili-plus/raw/master/source/customSource.json
 * 空图源 解决方法
   * 设置 > 恢复默认设置
 
