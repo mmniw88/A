@@ -52,34 +52,32 @@ ___
 ## 1. 阅读
 * 阅读｜APP
   + https://github.com/gedoor/legado/releases/
-* 阅读｜weixin｜12月书源
-  + https://mp.weixin.qq.com/s/rozSGmjEaQvuM6k-8Z0-TQ
+* 阅读｜weixin｜书源合集更新【2022.01月】
+  + https://mp.weixin.qq.com/s/m42PN_9yp1hVdyUIMRgSgw
   + haxc大佬的漫画源合集：
   
         https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/bookSource.json
   + namofree大佬的书源（通用，精简，比较适合大多数人）：
-      1. 分组名称改为：Namo；
-      2. 新增两个书源，删除失效书源，大部分比较坚挺；
-      3. 本书源适用于3.0版，2.0不保证全部适用；
-      4. 把之前带Namo的分组删除重新导入！
+      1. 书源稳定，本月无更新。
   
         https://namofree.gitee.io/yuedu3/legado3_booksource_by_Namo.json
   + 一程大佬的书源合集（通用，精简，比较适合大多数人）：
-      1. 优化部分细节
-      2. 新增大量书源
-      3. 修复失效网站
+      1. 旧例新增书源
+      2. 优化个别书源
+      3. 修复失效及已知问题书源
+      4. 删除无法修复的失效网站
   
-        https://shuyuan.miaogongzi.net/shuyuan/1638367786.json
-  + 破冰大佬的书源合集（1000+优质书源合集，需复制到浏览器下载后使用本地导入方式进行导）：
+        https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/sy.json
+  + 破冰大佬的书源合集：（1000+优质书源合集，需复制到浏览器下载后使用本地导入方式进行导入）：
   
         https://pobing.lanzoui.com/b0cxk0w8b   密码：59bV
-  + 破冰大佬的听书源合集(需复制到浏览器下载后使用本地导入方式进行导入)：
+  + 破冰大佬的听书源合集：(需复制到浏览器下载后使用本地导入方式进行导入)：
   
         https://pobing.lanzoui.com/b0cxk0w8b   密码：59bV
   + 破冰6大佬的笔趣阁书源合集：
   
         https://pbpobing.coding.net/p/yueduyuan/d/sy/git/raw/master/bqg.json
-  + 糖果超甜大佬的女频书源合集：
+  + 糖果超甜大佬的女频书源合集：：
         
         https://tangguochaotian.coding.net/p/tangguoshuyuan1015/d/tangguo/git/raw/master/exportBookSource.json
   + 关耳大佬的女频书源合集：
@@ -91,8 +89,6 @@ ___
   + https://gitee.com/vpq/yd
   + http://yck.mumuceo.com/yuedu/shuyuan/index.html
   + http://yuedu.miaogongzi.net/gx.html
-
-        https://cdn.jsdelivr.net/gh/YuanHsing/freed/阅读｜书源｜2021年9月整理.txt
 
 * 阅读APP📖｜TG官方群
   +  https://t.me/yueduguanfang
@@ -181,8 +177,8 @@ ___
 * 异次元｜APP
   * https://yiciyuan.lanzoux.com/b00ej0kba
 * 异次元｜图源
-  * [2021.12.1 有图标大整合源更新](https://mp.weixin.qq.com/s/Kp_FEMCq9WyvukxyoQjsuQ)
-  * [2021.12.2 大整合源更新（无图标修复）](https://mp.weixin.qq.com/s/BcifLAS85mhdqtIpqyx_dw)
+  * [2022.01.01 无图标大整合源更新](https://mp.weixin.qq.com/s/fZ5WXiKHNLF2IbHcWqpSxQ)
+  * [2022.01.01 有图标大整合源更新](https://mp.weixin.qq.com/s/3hB5DBVLn7VasrUi7kFb6A)
   * https://github.com/wanglabk/hub/tree/c2099
   * http://yck.mumuceo.com/yiciyuan/tuyuan/index.html
 
