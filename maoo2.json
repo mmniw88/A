@@ -1,5 +1,6 @@
 {
 "spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
+//"spider":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
 "sites":[
 {"key":"csp_appys_xiaogui_躺平影视","name":"躺平影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_躺平影视"},
 {"key":"csp_appys_v1_大熊影视","name":"大熊影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_大熊影视"},
@@ -107,7 +108,7 @@
 {"key":"csp_appys_xiaogui_影视工场","name":"影视工场(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_影视工场"},
 {"key":"csp_appys_xiaogui_追剧达人","name":"追剧达人(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_追剧达人"},
 {"key":"csp_appys_xiaogui_(无名)","name":"(无名)(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_(无名)"},
-{"key":"csp_appys_v1_大熊影视","name":"大熊影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_大熊影视"},
+//{"key":"csp_appys_v1_大熊影视","name":"大熊影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_大熊影视"},
 //{"key":"csp_appys_v1_免费看","name":"免费看(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_免费看"},
 {"key":"csp_appys_v1_全能影视","name":"全能影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_全能影视"},
 {"key":"csp_appys_v1_手指影视","name":"手指影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_手指影视"},
